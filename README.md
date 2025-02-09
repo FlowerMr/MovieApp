@@ -14,7 +14,9 @@ Firebase – Used for authentication and real-time database.
 ✅ Optimized state management for better performance
 ✅ Clean MVVM architecture for maintainability
 
-📷 Screenshots![Snapshot_250208211846](https://github.com/user-attachments/assets/a0d3f82e-b006-4376-bd74-f793eb261d2a)
+📷 Screenshots
+
+![Snapshot_250208211846](https://github.com/user-attachments/assets/a0d3f82e-b006-4376-bd74-f793eb261d2a)
 ![Snapshot_250208211902](https://github.com/user-attachments/assets/c6750e2f-6f02-43f3-8e5a-48e10043f523)
 ![Snapshot_250208211908](https://github.com/user-attachments/assets/cd5741b2-0892-4b0b-80db-8ab8ff7a9813)
 ![Snapshot_250208211933](https://github.com/user-attachments/assets/2bad1292-9ab1-4f81-b067-9266bdc2a65d)
